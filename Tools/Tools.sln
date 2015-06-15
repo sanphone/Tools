@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BackupFileConv", "..\BackupFileConv\BackupFileConv.vcproj", "{9C502A8D-C36C-41DF-A592-BD9E4B808F81}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "kuofucheck", "kuofucheck\kuofucheck.vcproj", "{21E668CF-15F4-4BA1-84AB-BB7BAA327248}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C502A8D-C36C-41DF-A592-BD9E4B808F81}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9C502A8D-C36C-41DF-A592-BD9E4B808F81}.Debug|Win32.Build.0 = Debug|Win32
+		{9C502A8D-C36C-41DF-A592-BD9E4B808F81}.Release|Win32.ActiveCfg = Release|Win32
+		{9C502A8D-C36C-41DF-A592-BD9E4B808F81}.Release|Win32.Build.0 = Release|Win32
+		{21E668CF-15F4-4BA1-84AB-BB7BAA327248}.Debug|Win32.ActiveCfg = Debug|Win32
+		{21E668CF-15F4-4BA1-84AB-BB7BAA327248}.Debug|Win32.Build.0 = Debug|Win32
+		{21E668CF-15F4-4BA1-84AB-BB7BAA327248}.Release|Win32.ActiveCfg = Release|Win32
+		{21E668CF-15F4-4BA1-84AB-BB7BAA327248}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
